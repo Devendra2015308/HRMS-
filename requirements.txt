@@ -1,1 +1,7 @@
--r backend/requirements.txt
+Django<4.0
+djangorestframework
+django-cors-headers
+djongo
+pymongo
+gunicorn
+pytz
